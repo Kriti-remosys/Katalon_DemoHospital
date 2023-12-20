@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Please Select Salary Type</name>
+   <tag></tag>
+   <elementGuidId>48672c8e-c115-487b-ab62-cd055bfb2292</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-salaryType-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='select2-salaryType-container']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6f227cb2-e3fb-438c-9e30-514a3fb3cbf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>e7653e30-eaa8-42fc-a389-64c942b751fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-salaryType-container</value>
+      <webElementGuid>629a6dbd-3cff-4014-9c64-c17faed7ace2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>
+                                                                        Please Select Salary Type
+                                                                    </value>
+      <webElementGuid>941ad526-1da2-4e0c-8686-add83f0367d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                                        Please Select Salary Type
+                                                                    </value>
+      <webElementGuid>7397c4b3-82d4-48f1-81df-5b5c639e44d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-salaryType-container&quot;)</value>
+      <webElementGuid>75f69f80-2758-4700-b110-69793e363c74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='select2-salaryType-container']</value>
+      <webElementGuid>05c289ae-60d7-46fe-aa22-0df412082879</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-step-0']/div[5]/div/div/span/span/span/span</value>
+      <webElementGuid>985a0521-a491-4250-bbfd-49e06d46b388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/span/span/span/span</value>
+      <webElementGuid>c0ea8775-bc71-442b-bc02-7156447d1c2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'select2-salaryType-container' and @title = '
+                                                                        Please Select Salary Type
+                                                                    ' and (text() = '
+                                                                        Please Select Salary Type
+                                                                    ' or . = '
+                                                                        Please Select Salary Type
+                                                                    ')]</value>
+      <webElementGuid>9b9e1c23-ef3b-4bae-b879-d07d0742801f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

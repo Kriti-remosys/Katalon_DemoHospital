@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select Gender</name>
+   <tag></tag>
+   <elementGuidId>2b38ba98-3325-4f7c-8c44-496dcf51baa0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-gender-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='select2-gender-container']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1506663d-3499-4f82-b0f9-0b493998ef3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>0c6723af-a9e4-45c8-824d-bdd71048fdcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-gender-container</value>
+      <webElementGuid>9f5a59aa-25fd-4c3e-8249-9c3d93b8c9ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>
+                                                                        Select Gender
+                                                                    </value>
+      <webElementGuid>fd88d26a-bff3-43bf-86b0-04dcecb1c5b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                                        Select Gender
+                                                                    </value>
+      <webElementGuid>918bb0ee-3de6-4c10-8bf7-188c5c7a30d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-gender-container&quot;)</value>
+      <webElementGuid>16a0e3e9-e5f5-4a2e-9b3f-e6ce4a49a488</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='select2-gender-container']</value>
+      <webElementGuid>cb501b2a-0392-4b6d-a843-29ee6bd36b48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-step-0']/div[5]/div/div[2]/span/span/span/span</value>
+      <webElementGuid>88a43762-0d21-43d1-a916-14e1028199d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/span/span/span</value>
+      <webElementGuid>0142a427-2a3d-4057-bc84-885a3d16dbb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'select2-gender-container' and @title = '
+                                                                        Select Gender
+                                                                    ' and (text() = '
+                                                                        Select Gender
+                                                                    ' or . = '
+                                                                        Select Gender
+                                                                    ')]</value>
+      <webElementGuid>c7aaa420-c81e-437a-872b-469e62451a49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
