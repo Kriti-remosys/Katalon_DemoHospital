@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the profile of HR</description>
+   <name>Hr_profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6b77060-9d2a-41a0-8968-7caeb013af19</testCaseGuid>
+</TestCaseEntity>
