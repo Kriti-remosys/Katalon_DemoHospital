@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>#mobile_no</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@id='inputEmail3'])[2]</value>
+         <value>//input[@id='mobile_no']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8c5b2d02-cecd-4e37-8816-668d28360eec</webElementGuid>
+      <webElementGuid>b5f486d4-b6bf-4fb1-925b-072fafe72da7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +30,15 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>bc54757c-2ae1-4d3b-a8ef-5cc55d1b6f94</webElementGuid>
+      <webElementGuid>92e34336-78a3-461c-af03-b0464ffe3e05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control </value>
-      <webElementGuid>0f5395e3-0eee-4f9a-a7c5-abaaa629c525</webElementGuid>
+      <value>form-control</value>
+      <webElementGuid>64d237c6-ef52-4665-bfe0-62b7659fca2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,47 +46,79 @@
       <name>name</name>
       <type>Main</type>
       <value>mobile_no</value>
-      <webElementGuid>997afa47-3be3-429f-a106-a8c8f09296e8</webElementGuid>
+      <webElementGuid>c087bd2a-407f-40aa-93da-dff2387a2d80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>0177553345</value>
-      <webElementGuid>486cfbc0-bcd5-4cbc-b639-3d17d6b2da1f</webElementGuid>
+      <value>0171234561</value>
+      <webElementGuid>efff3008-a053-4736-96a2-d40e0e4461a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>inputEmail3</value>
-      <webElementGuid>66ddb098-13e7-4a7c-bf4e-61f4eb9b0297</webElementGuid>
+      <value>mobile_no</value>
+      <webElementGuid>aa34a19e-85d6-4043-9a2d-8a461312f52f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Mobile no</value>
-      <webElementGuid>1d39b679-c0bd-47ad-b3e8-b2fad4ebfdac</webElementGuid>
+      <value>Mobile Number</value>
+      <webElementGuid>abf5427c-60fe-44ee-aea1-a17a8c4e3247</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;myForm&quot;)/div[@class=&quot;box-body&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-10&quot;]/input[@id=&quot;inputEmail3&quot;]</value>
-      <webElementGuid>156373f6-3d36-47b9-90e2-ff2e35149dd4</webElementGuid>
+      <value>id(&quot;mobile_no&quot;)</value>
+      <webElementGuid>9c90b57b-d12e-4acd-8e86-c547c6f0ceda</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
+      <value>//input[@id='mobile_no']</value>
+      <webElementGuid>110af32e-ee65-491f-b8bf-c6952ef8a7ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-step-0']/div[3]/div/div[2]/input</value>
+      <webElementGuid>e60a8c02-83a1-457f-a1ae-6b7f427b3824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/input</value>
+      <webElementGuid>5cf1af72-b9d6-4a52-8592-ee10cddf429a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'mobile_no' and @id = 'mobile_no' and @placeholder = 'Mobile Number']</value>
+      <webElementGuid>1614b3c0-7ab5-4244-8663-e2f1c98be765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
       <value>(//input[@id='inputEmail3'])[2]</value>
-      <webElementGuid>8e11dbe8-fe23-4296-b31c-58a1590ce296</webElementGuid>
+      <webElementGuid>fee402f9-4d57-44b5-89cb-1620be29ccf6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +126,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='myForm']/div/div[2]/div/input</value>
-      <webElementGuid>da13c6cd-3dbb-4ab9-803a-c835a6f57ba9</webElementGuid>
+      <webElementGuid>1ad3b328-3b45-43e1-bdcd-b3184dc1247d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/input</value>
-      <webElementGuid>fd1c2798-fdb1-421b-8f7c-83c692a72011</webElementGuid>
+      <webElementGuid>f0e30e3a-f4f6-4e18-926b-2b2e69350ec2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'mobile_no' and @id = 'inputEmail3' and @placeholder = 'Mobile no']</value>
-      <webElementGuid>1d324250-c0c4-4529-a9f4-dd5638e4dfb5</webElementGuid>
+      <webElementGuid>dbb2c1e1-7d63-4c53-b8cb-330e846c76bb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>th_</name>
+   <name>td_3</name>
    <tag></tag>
-   <elementGuidId>6342ceea-55ed-4e0f-8144-339c81b3c894</elementGuidId>
+   <elementGuidId>ac9d07d1-a835-4848-a346-5a897c15c955</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>th.prev</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//tr[2]/th</value>
+         <value>//div[4]/div/table/tbody/tr[2]/td[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,47 +21,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>th</value>
-      <webElementGuid>16696b24-a4f7-4ff2-a63e-766ec64b2083</webElementGuid>
+      <value>td</value>
+      <webElementGuid>3df8da20-cdd4-458d-b23a-d3cfa7a29c9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>prev</value>
-      <webElementGuid>cc69a616-ae7b-4c33-affc-c38a811264b6</webElementGuid>
+      <value>day</value>
+      <webElementGuid>f6d46251-1d22-47a3-8215-d1de95d5c323</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-date</name>
+      <type>Main</type>
+      <value>1688342400000</value>
+      <webElementGuid>22ab9929-8f7f-4019-8751-96136169cd1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>«</value>
-      <webElementGuid>1ff3923f-d045-4a74-b9ab-c13a92de08f9</webElementGuid>
+      <value>3</value>
+      <webElementGuid>207ad4b8-ac9d-4d84-8920-56b56291c097</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;skin-blue-light layout-top-nav   pace-done pace-done&quot;]/div[@class=&quot;datepicker datepicker-dropdown dropdown-menu datepicker-orient-left datepicker-orient-bottom&quot;]/div[@class=&quot;datepicker-days&quot;]/table[@class=&quot;table-condensed&quot;]/thead[1]/tr[2]/th[@class=&quot;prev&quot;]</value>
-      <webElementGuid>20ae1c3c-5d00-4c89-a754-dcc3046bee21</webElementGuid>
+      <value>/html[1]/body[@class=&quot;skin-blue-light layout-top-nav   pace-done pace-done&quot;]/div[@class=&quot;datepicker datepicker-dropdown dropdown-menu datepicker-orient-left datepicker-orient-bottom&quot;]/div[@class=&quot;datepicker-days&quot;]/table[@class=&quot;table-condensed&quot;]/tbody[1]/tr[2]/td[@class=&quot;day&quot;]</value>
+      <webElementGuid>bbf9594c-91d8-4ec0-96d1-111fd835ad5b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[2]/th</value>
-      <webElementGuid>eed30e61-5d04-4df2-b8f9-8eb9ca7a3470</webElementGuid>
+      <value>//div[4]/div/table/tbody/tr[2]/td[2]</value>
+      <webElementGuid>ad852202-9a3a-4cb1-9de1-ff9777c0fe7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//th[(text() = '«' or . = '«')]</value>
-      <webElementGuid>a70438a0-b4ee-4cc3-b8a1-b1b744f95fc0</webElementGuid>
+      <value>//td[(text() = '3' or . = '3')]</value>
+      <webElementGuid>8c0bf09d-61be-432d-987b-61ba36cedc63</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

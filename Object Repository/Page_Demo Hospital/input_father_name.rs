@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Submit</name>
+   <name>input_father_name</name>
    <tag></tag>
-   <elementGuidId>9f24fe7b-f4d2-4cf3-989b-fcf653e3d037</elementGuidId>
+   <elementGuidId>7e50eec0-7c9b-480e-889f-fb346f42d0c6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-sm.btn-primary</value>
+         <value>#father_name</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <value>//input[@id='father_name']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,71 +21,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>d7572e57-c833-4319-b958-685e172099fa</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn btn-sm btn-primary</value>
-      <webElementGuid>b1faebe5-34a0-4470-ae92-70d1a4c228d6</webElementGuid>
+      <value>input</value>
+      <webElementGuid>6203d249-8ab8-407c-b577-9247951d703e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>b33c6474-16f8-4820-b004-b485350cedaf</webElementGuid>
+      <value>text</value>
+      <webElementGuid>2ae2352c-d2d3-4f72-b71d-618e06550d4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>e41f6b47-dfc2-4128-9570-b686ea7dfb62</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>name</name>
       <type>Main</type>
-      <value> Submit</value>
-      <webElementGuid>aefd6c95-c441-4748-8e36-9ff371b6699a</webElementGuid>
+      <value>father_name</value>
+      <webElementGuid>97f0afe8-02a6-40a8-aa9a-b13296b9219b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>father_name</value>
+      <webElementGuid>3db6e34c-e5f7-4692-bce2-066e05d0ce89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Write your Father Name</value>
+      <webElementGuid>670db37f-1877-4153-a7c4-c39b7c563e52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;custom_search_form&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-md-9 col-md-offset-3&quot;]/div[@class=&quot;col-md-2&quot;]/button[@class=&quot;btn btn-sm btn-primary&quot;]</value>
-      <webElementGuid>c0511344-7762-450a-a0d8-8c2c5e31832a</webElementGuid>
+      <value>id(&quot;father_name&quot;)</value>
+      <webElementGuid>1fdf150f-d8a1-4728-b7e8-46a8090d4e3d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@type='submit']</value>
-      <webElementGuid>90f1833f-107f-4ff4-8256-fd52d51e1e61</webElementGuid>
+      <value>//input[@id='father_name']</value>
+      <webElementGuid>c3d0d671-22f6-428f-8c56-5127ef0f484f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='custom_search_form']/div/div/div/div[3]/button</value>
-      <webElementGuid>2dafd912-88f0-4803-8d1e-af1b98127342</webElementGuid>
+      <value>//div[@id='form-step-0']/div[2]/div/div/input</value>
+      <webElementGuid>ddd3764b-12c9-4563-a817-662c26c0e4d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/button</value>
-      <webElementGuid>8a5cd66e-f766-41a8-a208-0f5ccb9d730f</webElementGuid>
+      <value>//div[2]/div/div/input</value>
+      <webElementGuid>a4fc61a4-3651-47ce-9b18-be9f719cafa2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = ' Submit' or . = ' Submit')]</value>
-      <webElementGuid>6306c8fa-f034-4db0-9629-7e87d9ac22d8</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'father_name' and @id = 'father_name' and @placeholder = 'Write your Father Name']</value>
+      <webElementGuid>ca52ea48-3102-455d-a52f-578afc7eca9e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

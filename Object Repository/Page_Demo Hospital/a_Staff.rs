@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='navbar-collapse']/ul/li/ul/li/a</value>
+         <value>//div[@id='navbar-collapse']/ul/li[2]/ul/li/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>886d92f4-2321-4abb-9042-3907afbabb88</webElementGuid>
+      <webElementGuid>6db28a7a-da0b-45f7-a126-bcb3fe64d365</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://hospitalb.com/hr/employee</value>
-      <webElementGuid>18a3a782-d01b-479c-ab0b-4c58736f8a01</webElementGuid>
+      <webElementGuid>7d8c20b7-e1f4-4bd5-804d-49c3e6cf74af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Staff</value>
-      <webElementGuid>8823b5b4-4e92-45ae-b6d3-485fe0881a2c</webElementGuid>
+      <webElementGuid>fe15d864-3e3d-48f7-9f51-2927f3a6b384</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,10 +46,50 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;navbar-collapse&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[1]/a[1]</value>
-      <webElementGuid>cb6237e3-884b-4e7b-84dc-11d3f631e88c</webElementGuid>
+      <webElementGuid>2a5f9fbb-08db-44d1-a63d-01059f30212b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbar-collapse']/ul/li[2]/ul/li/a</value>
+      <webElementGuid>a588fa46-98c7-4472-9dfe-f34ff17e61cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Staff')]</value>
+      <webElementGuid>67e599ea-b4bc-40fe-981b-64249799bb5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://hospitalb.com/hr/employee')]</value>
+      <webElementGuid>e757763c-2515-487e-9da1-7e22e18ca5f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li/a</value>
+      <webElementGuid>43ad5cb9-dc71-49a0-9952-92267ab26f85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://hospitalb.com/hr/employee' and (text() = 'Staff' or . = 'Staff')]</value>
+      <webElementGuid>523d263d-c637-4677-94a0-abc448e0b9f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -59,33 +99,9 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>//a[contains(text(),'Staff')]</value>
-      <webElementGuid>b9def7a6-6c09-4925-87a4-7cf35ba8b63b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>//a[contains(@href, 'https://hospitalb.com/hr/employee')]</value>
-      <webElementGuid>48321dc1-e871-481f-a1c2-cb07c3ce2200</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/ul/li/a</value>
       <webElementGuid>3da2b854-0b8e-477d-a4e1-a7bedd1041ff</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//a[@href = 'https://hospitalb.com/hr/employee' and (text() = 'Staff' or . = 'Staff')]</value>
-      <webElementGuid>0b70b1ac-fe1c-44ee-9942-49f72a41d1dc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

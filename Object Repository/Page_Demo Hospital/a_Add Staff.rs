@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>92be69e8-4540-4497-a125-abbe093e4ab5</webElementGuid>
+      <webElementGuid>ee455b14-597c-4ef7-a224-87377868e182</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#add-employee</value>
-      <webElementGuid>a187e2f4-a942-4c64-8414-4ac704b7b68f</webElementGuid>
+      <webElementGuid>5ecc9371-9ce3-488c-8951-edeb119ccaf0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>tab</value>
-      <webElementGuid>c17dbdb1-595e-444c-ad99-ac68b4ce8f04</webElementGuid>
+      <webElementGuid>35ad52fb-6ec7-48d9-aab6-d141aa8e293f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add Staff</value>
-      <webElementGuid>6f4b0f72-7382-4242-ae4d-12822535f577</webElementGuid>
+      <webElementGuid>f2fc7174-c4fe-4893-805f-c78fdea9524f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;skin-blue-light layout-top-nav  pace-done&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;box box-info&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;nav-tabs-custom&quot;]/ul[@class=&quot;nav nav-tabs&quot;]/li[2]/a[1]</value>
-      <webElementGuid>cac1867a-feb4-417f-92b3-57f7ec9e7de9</webElementGuid>
+      <webElementGuid>b81938b6-f618-4d18-b7a9-6d52660da661</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Add Staff')]</value>
-      <webElementGuid>ed613108-8613-45f6-8867-8698283cee40</webElementGuid>
+      <webElementGuid>7e6c2ddd-55f4-45e9-96ee-52ad6b14cdc4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '#add-employee')]</value>
-      <webElementGuid>2d68051d-4a63-46bf-af36-6d54594d045a</webElementGuid>
+      <webElementGuid>b5fa6c0f-58c4-405c-8191-c181b52f79f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/ul/li[2]/a</value>
-      <webElementGuid>5bdae5df-5bd2-451b-8050-91e30c27445e</webElementGuid>
+      <webElementGuid>04d846e9-ff01-42f5-9e93-b98d30120396</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#add-employee' and (text() = 'Add Staff' or . = 'Add Staff')]</value>
-      <webElementGuid>f1de595f-2410-4060-8241-4456b7e34526</webElementGuid>
+      <webElementGuid>bc90b587-6108-4278-a996-cda935f478ac</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

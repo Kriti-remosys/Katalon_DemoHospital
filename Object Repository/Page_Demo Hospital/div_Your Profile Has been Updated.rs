@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>6f0c63e6-b4cb-446f-882a-093ca8139dab</webElementGuid>
+      <webElementGuid>9ee446e0-bf0f-43fd-8e12-0b7ff2774b1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>alert alert-success alert-dismissible messageBody</value>
-      <webElementGuid>2c64490c-9764-43a6-927c-7ad3a972dac1</webElementGuid>
+      <webElementGuid>199581db-b353-46e4-a1c3-6aa71b7a8285</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,15 +41,15 @@
 		    ×
 		    Your Profile Has been Updated
 		</value>
-      <webElementGuid>30fb0c31-8a66-43e1-a754-053647844b26</webElementGuid>
+      <webElementGuid>6d47e2cd-6139-45d7-8c70-29e067250d78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;skin-blue-light layout-top-nav pace-running&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;alert alert-success alert-dismissible messageBody&quot;]</value>
-      <webElementGuid>3948c02d-aa71-46c1-af81-f4ec962f2a9e</webElementGuid>
+      <value>/html[1]/body[@class=&quot;skin-blue-light layout-top-nav  pace-done&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;alert alert-success alert-dismissible messageBody&quot;]</value>
+      <webElementGuid>a9544775-f658-45cf-9385-73d8cea01daa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div</value>
-      <webElementGuid>91c29722-1e0b-4c22-9edf-27ff96d98587</webElementGuid>
+      <webElementGuid>9ced77b6-03f5-4d34-9cf0-17574787cdff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +71,6 @@
 		    ×
 		    Your Profile Has been Updated
 		')]</value>
-      <webElementGuid>04e2b0cd-8cde-467c-bba1-4cd791e89fcb</webElementGuid>
+      <webElementGuid>a92b0603-57ee-41d1-99ac-306d929a2cb9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

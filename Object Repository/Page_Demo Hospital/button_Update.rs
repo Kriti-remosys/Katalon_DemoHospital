@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>24096738-814d-41bd-8d82-389aa07a0e02</webElementGuid>
+      <webElementGuid>e4056c6d-0971-4b82-bdc9-3f9e1499716d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>702288ff-b1eb-443c-b81d-5fc9e6d39b5a</webElementGuid>
+      <webElementGuid>62d7e04d-8d15-4281-ae27-38ca7d2475b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-info pull-right</value>
-      <webElementGuid>a7db649e-b66f-4048-8d3b-7090dc02508b</webElementGuid>
+      <webElementGuid>6dac99fa-d003-443f-a62c-bcbbb63f18ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Update</value>
-      <webElementGuid>fdeb6483-4a3c-442c-a63d-8e9f93b181b9</webElementGuid>
+      <webElementGuid>e5b327a5-d690-48a6-a14c-104d92a55dbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;myForm&quot;)/div[@class=&quot;box-footer&quot;]/button[@class=&quot;btn btn-info pull-right&quot;]</value>
-      <webElementGuid>d24c9beb-b88b-4251-b2eb-bb6d36d2cc35</webElementGuid>
+      <webElementGuid>9638b950-2ea6-43de-ab03-94c2378c6a63</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>7fa4b922-ace9-41b6-9e62-e392d4409911</webElementGuid>
+      <webElementGuid>157f0253-0763-416d-9e0e-8f394e25e5c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='myForm']/div[2]/button</value>
-      <webElementGuid>cccef1f9-edb0-4d8c-a524-06382a19669b</webElementGuid>
+      <webElementGuid>5b9255bc-dd17-4df1-9dea-00be3528046a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div[2]/button</value>
-      <webElementGuid>18f11152-7a77-4a27-88b2-ae4d19ece4a1</webElementGuid>
+      <webElementGuid>fbd1cf32-9c30-4be8-9b08-028bd3b88d78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Update' or . = 'Update')]</value>
-      <webElementGuid>326b872d-b159-402a-aee4-66fe7d9c5c93</webElementGuid>
+      <webElementGuid>1472ecb5-b13d-4362-8457-9f995cb10b74</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

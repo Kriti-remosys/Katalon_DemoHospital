@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>4282e89c-cb36-465e-b06f-4b4bf75ece34</webElementGuid>
+      <webElementGuid>931a451f-d080-4fb4-8ea5-fb0fafa30c46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>hidden-xs</value>
-      <webElementGuid>15ab50a9-188d-4964-973b-7ab089bd34c3</webElementGuid>
+      <webElementGuid>475de006-7c1a-472d-9ed9-cd0310b4c967</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,15 +38,15 @@
       <name>text</name>
       <type>Main</type>
       <value>radiologist</value>
-      <webElementGuid>63662881-e1c7-4bfc-8071-9951e076d5c8</webElementGuid>
+      <webElementGuid>6e2a4e4b-58b1-4262-a3e7-950420dad737</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;skin-blue-light layout-top-nav  pace-done&quot;]/div[@class=&quot;wrapper&quot;]/header[@class=&quot;main-header&quot;]/nav[@class=&quot;navbar navbar-static-top&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;navbar-custom-menu&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown user user-menu&quot;]/a[@class=&quot;dropdown-toggle&quot;]/span[@class=&quot;hidden-xs&quot;]</value>
-      <webElementGuid>f8f81ff8-f460-48b0-a239-b59e7a96640a</webElementGuid>
+      <value>/html[1]/body[@class=&quot;skin-blue-light layout-top-nav  pace-done&quot;]/div[@class=&quot;wrapper&quot;]/header[@class=&quot;main-header&quot;]/nav[@class=&quot;navbar navbar-static-top&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;navbar-custom-menu&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown user user-menu open&quot;]/a[@class=&quot;dropdown-toggle&quot;]/span[@class=&quot;hidden-xs&quot;]</value>
+      <webElementGuid>1026933a-fdf7-4a9e-b17a-22f90fbc9bfa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span</value>
-      <webElementGuid>cda262bc-5c00-45fa-9017-4547965e2e93</webElementGuid>
+      <webElementGuid>39f1f0d8-f713-4dcd-941b-bb1d26c9a481</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,6 +62,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'radiologist' or . = 'radiologist')]</value>
-      <webElementGuid>252af3cf-a964-4f73-8054-0c32b3d32d61</webElementGuid>
+      <webElementGuid>797ff4a6-47b9-45c2-a2eb-bfca06e98643</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Submit</name>
+   <name>input_user_name</name>
    <tag></tag>
-   <elementGuidId>9f24fe7b-f4d2-4cf3-989b-fcf653e3d037</elementGuidId>
+   <elementGuidId>b54e2e1d-0cdf-43f3-b59b-ac78370e2025</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-sm.btn-primary</value>
+         <value>#user_name</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <value>//input[@id='user_name']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,71 +21,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>d7572e57-c833-4319-b958-685e172099fa</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn btn-sm btn-primary</value>
-      <webElementGuid>b1faebe5-34a0-4470-ae92-70d1a4c228d6</webElementGuid>
+      <value>input</value>
+      <webElementGuid>149a58ee-02cd-440d-af8e-ea71021ec3f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>b33c6474-16f8-4820-b004-b485350cedaf</webElementGuid>
+      <value>text</value>
+      <webElementGuid>b9305e40-873b-427b-98fe-25ebbd7df5cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>dea3adc9-fd11-44df-b9e5-0dd5fbae4e35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>name</name>
       <type>Main</type>
-      <value> Submit</value>
-      <webElementGuid>aefd6c95-c441-4748-8e36-9ff371b6699a</webElementGuid>
+      <value>user_name</value>
+      <webElementGuid>b9343c5f-00a3-4301-87d3-4e273c0cb404</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>user_name</value>
+      <webElementGuid>94627943-4f8c-45fc-82fb-b449f897ba6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Write your UserName</value>
+      <webElementGuid>778ab21b-d8ae-46bf-a52c-84075dcc1458</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;custom_search_form&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-md-9 col-md-offset-3&quot;]/div[@class=&quot;col-md-2&quot;]/button[@class=&quot;btn btn-sm btn-primary&quot;]</value>
-      <webElementGuid>c0511344-7762-450a-a0d8-8c2c5e31832a</webElementGuid>
+      <value>id(&quot;user_name&quot;)</value>
+      <webElementGuid>325730a2-714e-417d-a0c8-6c0b162e3852</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@type='submit']</value>
-      <webElementGuid>90f1833f-107f-4ff4-8256-fd52d51e1e61</webElementGuid>
+      <value>//input[@id='user_name']</value>
+      <webElementGuid>e922a489-8e17-4915-a1f3-735028d362cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='custom_search_form']/div/div/div/div[3]/button</value>
-      <webElementGuid>2dafd912-88f0-4803-8d1e-af1b98127342</webElementGuid>
+      <value>//div[@id='form-step-0']/div/div/div[2]/input</value>
+      <webElementGuid>9ec7713c-611d-42d7-8cea-a9c0bb850ed0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/button</value>
-      <webElementGuid>8a5cd66e-f766-41a8-a208-0f5ccb9d730f</webElementGuid>
+      <value>//div[2]/input</value>
+      <webElementGuid>f43b5eeb-16b5-46ea-b05f-a44a8b687e3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = ' Submit' or . = ' Submit')]</value>
-      <webElementGuid>6306c8fa-f034-4db0-9629-7e87d9ac22d8</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'user_name' and @id = 'user_name' and @placeholder = 'Write your UserName']</value>
+      <webElementGuid>f9450a01-dca6-454a-9529-cc92aec8e147</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

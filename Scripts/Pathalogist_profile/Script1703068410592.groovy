@@ -39,5 +39,5 @@ WebUI.click(findTestObject('Object Repository/Page_Demo Hospital/button_Update')
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Hospital/div_Your Profile Has been Updated'))
 
-WebUI.closeBrowser()
+WebUI.takeScreenshotAsCheckpoint('Pathalogist')
 

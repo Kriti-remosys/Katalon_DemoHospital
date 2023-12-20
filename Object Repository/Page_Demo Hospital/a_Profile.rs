@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b3e021ed-5ddc-45dc-b285-593c9025a289</webElementGuid>
+      <webElementGuid>aa882851-6772-4083-aa7b-d3229f268da6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://hospitalb.com/profile</value>
-      <webElementGuid>b28392e1-fe9a-4544-a84c-71964fa3a0b1</webElementGuid>
+      <webElementGuid>11098cd3-a89d-47b9-baf6-7d59915def5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-default btn-flat</value>
-      <webElementGuid>e5f10db1-92b6-4d6d-ad4e-1afb58b9f26a</webElementGuid>
+      <webElementGuid>5aef2c16-c2a2-41f6-a726-0776dd86fc15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Profile</value>
-      <webElementGuid>baf23407-4990-4025-aec4-e65021eaab60</webElementGuid>
+      <webElementGuid>e871229d-505d-4e35-a242-6a28ae09a552</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;skin-blue-light layout-top-nav  pace-done&quot;]/div[@class=&quot;wrapper&quot;]/header[@class=&quot;main-header&quot;]/nav[@class=&quot;navbar navbar-static-top&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;navbar-custom-menu&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown user user-menu open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[@class=&quot;user-footer&quot;]/div[@class=&quot;pull-left&quot;]/a[@class=&quot;btn btn-default btn-flat&quot;]</value>
-      <webElementGuid>9925317e-1f47-4d6a-a7d8-9b48cca6f088</webElementGuid>
+      <webElementGuid>ddd3119b-d008-4372-b1fb-386492a876bf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Profile')]</value>
-      <webElementGuid>48b0d850-712f-489e-be06-63ed123db9cb</webElementGuid>
+      <webElementGuid>e9a326b6-1028-49b8-aadf-687411910c46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://hospitalb.com/profile')]</value>
-      <webElementGuid>2a3c9e3b-30a9-4765-8112-f526ffdf085c</webElementGuid>
+      <webElementGuid>0aef9fd8-b31f-4ea4-9c21-dc54b183f3e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/div/a</value>
-      <webElementGuid>e6efbf5a-9e8f-4379-af87-889981136642</webElementGuid>
+      <webElementGuid>91b9d31e-3184-4866-a634-afb697847c36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://hospitalb.com/profile' and (text() = 'Profile' or . = 'Profile')]</value>
-      <webElementGuid>544cbd67-6bb4-4add-a589-68d38fc24a4f</webElementGuid>
+      <webElementGuid>fce8fad6-75ca-4da4-ab09-086c8ab98924</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

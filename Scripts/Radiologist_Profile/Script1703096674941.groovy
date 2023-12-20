@@ -17,11 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('Login_Radiologist'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl('https://hospitalb.com/login')
+WebUI.click(findTestObject('Object Repository/Page_Demo Hospital/span_radiologist'))
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Hospital/button_Admin'))
+WebUI.click(findTestObject('Object Repository/Page_Demo Hospital/span_radiologist'))
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Hospital/input_custom-btn'))
+WebUI.click(findTestObject('Object Repository/Page_Demo Hospital/a_Profile'))
+
+WebUI.navigateToUrl('https://hospitalb.com/profile')
+
+WebUI.click(findTestObject('Object Repository/Page_Demo Hospital/input_full_name'))
+
+WebUI.click(findTestObject('Object Repository/Page_Demo Hospital/input_mobile_no'))
+
+WebUI.click(findTestObject('Object Repository/Page_Demo Hospital/button_Update'))
+
+WebUI.click(findTestObject('Object Repository/Page_Demo Hospital/div_Your Profile Has been Updated'))
+
+WebUI.takeScreenshotAsCheckpoint('radiologits')
 

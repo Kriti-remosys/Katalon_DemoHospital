@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Submit</name>
+   <name>span_Please Select Designation</name>
    <tag></tag>
-   <elementGuidId>9f24fe7b-f4d2-4cf3-989b-fcf653e3d037</elementGuidId>
+   <elementGuidId>6236b931-9159-4a29-b3d7-ff72cb88c856</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-sm.btn-primary</value>
+         <value>#select2-designation-container</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <value>//span[@id='select2-designation-container']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,71 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>d7572e57-c833-4319-b958-685e172099fa</webElementGuid>
+      <value>span</value>
+      <webElementGuid>054f46d7-a568-4211-a36f-f44b83360bda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-sm btn-primary</value>
-      <webElementGuid>b1faebe5-34a0-4470-ae92-70d1a4c228d6</webElementGuid>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>2bc89ff2-c153-4a87-b309-06cfcf4d5427</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>id</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>b33c6474-16f8-4820-b004-b485350cedaf</webElementGuid>
+      <value>select2-designation-container</value>
+      <webElementGuid>b735eac8-845a-4c25-aed8-d7853a536a03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Please Select Designation</value>
+      <webElementGuid>83a62fdb-9cb4-4577-8236-671ee77e7760</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Submit</value>
-      <webElementGuid>aefd6c95-c441-4748-8e36-9ff371b6699a</webElementGuid>
+      <value>Please Select Designation</value>
+      <webElementGuid>47b110ec-95f6-4cff-ab62-d4426e40a62a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;custom_search_form&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-md-9 col-md-offset-3&quot;]/div[@class=&quot;col-md-2&quot;]/button[@class=&quot;btn btn-sm btn-primary&quot;]</value>
-      <webElementGuid>c0511344-7762-450a-a0d8-8c2c5e31832a</webElementGuid>
+      <value>id(&quot;select2-designation-container&quot;)</value>
+      <webElementGuid>5e01a202-728a-4985-8d99-2fc3d133181c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@type='submit']</value>
-      <webElementGuid>90f1833f-107f-4ff4-8256-fd52d51e1e61</webElementGuid>
+      <value>//span[@id='select2-designation-container']</value>
+      <webElementGuid>e2923a4a-1d9f-4085-bdbc-4511d0d6e480</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='custom_search_form']/div/div/div/div[3]/button</value>
-      <webElementGuid>2dafd912-88f0-4803-8d1e-af1b98127342</webElementGuid>
+      <value>//div[@id='form-step-0']/div[3]/div/div/span/span/span/span</value>
+      <webElementGuid>e9e62510-ebe3-48b0-8a3f-8b7619189874</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/button</value>
-      <webElementGuid>8a5cd66e-f766-41a8-a208-0f5ccb9d730f</webElementGuid>
+      <value>//span/span/span/span</value>
+      <webElementGuid>40bb61e2-679a-4f40-a54a-8e645da939a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = ' Submit' or . = ' Submit')]</value>
-      <webElementGuid>6306c8fa-f034-4db0-9629-7e87d9ac22d8</webElementGuid>
+      <value>//span[@id = 'select2-designation-container' and @title = 'Please Select Designation' and (text() = 'Please Select Designation' or . = 'Please Select Designation')]</value>
+      <webElementGuid>d1acd3c0-c41c-4631-9727-83bfd24074de</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

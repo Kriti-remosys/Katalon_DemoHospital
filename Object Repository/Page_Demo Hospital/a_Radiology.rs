@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Submit</name>
+   <name>a_Radiology</name>
    <tag></tag>
-   <elementGuidId>9f24fe7b-f4d2-4cf3-989b-fcf653e3d037</elementGuidId>
+   <elementGuidId>5fae0af6-2aac-46f6-a139-4af0a878eb95</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-sm.btn-primary</value>
+         <value>a.btn.btn-app</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <value>//div[@id='navbar-collapse']/ul/li/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,71 +21,80 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>d7572e57-c833-4319-b958-685e172099fa</webElementGuid>
+      <value>a</value>
+      <webElementGuid>3f626b90-3062-4041-b10d-d62b1cbb6826</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-sm btn-primary</value>
-      <webElementGuid>b1faebe5-34a0-4470-ae92-70d1a4c228d6</webElementGuid>
+      <value>btn btn-app</value>
+      <webElementGuid>ae1e80cb-9f5d-4628-a89c-ecf5eeccb388</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>href</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>b33c6474-16f8-4820-b004-b485350cedaf</webElementGuid>
+      <value>https://hospitalb.com/reports/diagnostic-radiology-test-report</value>
+      <webElementGuid>fc86ad44-9651-43f2-88b1-a839183aa8cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Submit</value>
-      <webElementGuid>aefd6c95-c441-4748-8e36-9ff371b6699a</webElementGuid>
+      <value>
+                                
+                                Radiology
+                            </value>
+      <webElementGuid>21ce8ab7-6720-4b2c-a80f-e76e7e27fc41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;custom_search_form&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-md-9 col-md-offset-3&quot;]/div[@class=&quot;col-md-2&quot;]/button[@class=&quot;btn btn-sm btn-primary&quot;]</value>
-      <webElementGuid>c0511344-7762-450a-a0d8-8c2c5e31832a</webElementGuid>
+      <value>id(&quot;navbar-collapse&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[1]/a[@class=&quot;btn btn-app&quot;]</value>
+      <webElementGuid>0c215808-58e3-4d07-b13c-069b0fcdf906</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@type='submit']</value>
-      <webElementGuid>90f1833f-107f-4ff4-8256-fd52d51e1e61</webElementGuid>
+      <value>//div[@id='navbar-collapse']/ul/li/a</value>
+      <webElementGuid>763177e5-c552-4d5f-9dea-0e7d77c18ad3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:href</name>
       <type>Main</type>
-      <value>//form[@id='custom_search_form']/div/div/div/div[3]/button</value>
-      <webElementGuid>2dafd912-88f0-4803-8d1e-af1b98127342</webElementGuid>
+      <value>//a[contains(@href, 'https://hospitalb.com/reports/diagnostic-radiology-test-report')]</value>
+      <webElementGuid>bd58d158-821b-4fc5-8318-8aba01f0584e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/button</value>
-      <webElementGuid>8a5cd66e-f766-41a8-a208-0f5ccb9d730f</webElementGuid>
+      <value>//nav[2]/div/div/ul/li/a</value>
+      <webElementGuid>2d1d7f83-1a2a-4964-9ea3-0a6f42058db7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = ' Submit' or . = ' Submit')]</value>
-      <webElementGuid>6306c8fa-f034-4db0-9629-7e87d9ac22d8</webElementGuid>
+      <value>//a[@href = 'https://hospitalb.com/reports/diagnostic-radiology-test-report' and (text() = '
+                                
+                                Radiology
+                            ' or . = '
+                                
+                                Radiology
+                            ')]</value>
+      <webElementGuid>f1b20251-60b8-468f-be98-7610ef2f6b1c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
