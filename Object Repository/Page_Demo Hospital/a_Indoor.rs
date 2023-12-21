@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Pathologist</name>
+   <name>a_Indoor</name>
    <tag></tag>
-   <elementGuidId>0d4c056c-5390-4b53-be80-5b55765092d0</elementGuidId>
+   <elementGuidId>65ed4008-1e1b-4906-a5dd-18367b48d7e9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>li:nth-of-type(9) > a.btn.btn-app</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[4]</value>
+         <value>//div[@id='navbar-collapse']/ul/li[9]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,32 +21,24 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>522a623b-3f1d-423f-8c76-2b1abbf726b7</webElementGuid>
+      <value>a</value>
+      <webElementGuid>f1f039d4-97d1-412a-9073-49bd7fbf6303</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-small custom-btn-small</value>
-      <webElementGuid>5573d663-d2e4-4d0d-805d-d7cfa58f8598</webElementGuid>
+      <value>btn btn-app</value>
+      <webElementGuid>b8a129b2-8d05-4b4b-9ec9-3b52b32b5cb0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>href</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>3451b44d-85db-4135-9545-cc87bb0855d9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value>setUser('pathologist')</value>
-      <webElementGuid>0840fccb-d0a1-448b-b243-f8c32ed62ecc</webElementGuid>
+      <value>https://hospitalb.com/indoor/setup</value>
+      <webElementGuid>78063a10-d09d-4583-814a-f8458869e001</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,44 +46,55 @@
       <name>text</name>
       <type>Main</type>
       <value>
-                                Pathologist
+                                
+                                Indoor
                             </value>
-      <webElementGuid>571aaa39-f0d3-413d-b2f3-5de11c86bd79</webElementGuid>
+      <webElementGuid>30058cb7-c223-47e2-a83b-6e4a1ba460dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-2&quot;]/div[@class=&quot;form-container&quot;]/form[1]/div[@class=&quot;btn-group-vertical&quot;]/button[@class=&quot;btn btn-small custom-btn-small&quot;]</value>
-      <webElementGuid>9d3e136a-076a-41e7-9ee0-afdfe3b07728</webElementGuid>
+      <value>id(&quot;navbar-collapse&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[9]/a[@class=&quot;btn btn-app&quot;]</value>
+      <webElementGuid>7488f526-92ed-4231-bb02-6edb43bda5f8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[4]</value>
-      <webElementGuid>790b2700-3135-43bc-ae53-6f6a1830b432</webElementGuid>
+      <value>//div[@id='navbar-collapse']/ul/li[9]/a</value>
+      <webElementGuid>d7f5e911-0d76-445f-a358-032492d69f08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://hospitalb.com/indoor/setup')]</value>
+      <webElementGuid>fa030a51-0100-401d-9d93-c20f0c933711</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button[4]</value>
-      <webElementGuid>1fb64ec3-85a6-43c8-b45b-67704ac6422c</webElementGuid>
+      <value>//li[9]/a</value>
+      <webElementGuid>385b2c55-cc51-4194-b443-a589377d30db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = '
-                                Pathologist
+      <value>//a[@href = 'https://hospitalb.com/indoor/setup' and (text() = '
+                                
+                                Indoor
                             ' or . = '
-                                Pathologist
+                                
+                                Indoor
                             ')]</value>
-      <webElementGuid>59b8e601-3e13-4a2e-ad62-d4db39bc835a</webElementGuid>
+      <webElementGuid>4f8543f7-bb5a-474a-b816-155549a66935</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

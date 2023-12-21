@@ -21,11 +21,5 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://hospitalb.com/login')
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Hospital/button_Pathologist'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Hospital/input_custom-btn'))
-
-WebUI.takeScreenshotAsCheckpoint('Hospital')
-
-WebUI.closeBrowser()
+WebUI.takeScreenshotAsCheckpoint('Demo Hospital')
 

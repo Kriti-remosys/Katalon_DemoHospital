@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>128f703e-f539-47b1-af78-8910675245d5</webElementGuid>
+      <webElementGuid>3841a2a6-933f-413b-acee-e580e8e3d04a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>3c1356b0-2d7b-40e3-aabb-12f6503d2e6d</webElementGuid>
+      <webElementGuid>8b7bda0e-9545-4440-bc73-dec3cce3656e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>custom-btn</value>
-      <webElementGuid>a300eb83-660f-434d-9cc2-6e501fde4670</webElementGuid>
+      <webElementGuid>f6d95154-f866-4e90-9737-ccd9e5595d44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Sign In</value>
-      <webElementGuid>a3afb9fc-d3b8-4b74-a4fd-0417b820bfc6</webElementGuid>
+      <webElementGuid>974ae0fe-cd9c-43cd-8ae3-d5c7294f4783</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-2&quot;]/div[@class=&quot;form-container&quot;]/form[1]/input[@class=&quot;custom-btn&quot;]</value>
-      <webElementGuid>312a725a-dae0-44b1-9f0b-af6b94b8a648</webElementGuid>
+      <webElementGuid>5ffd387e-79b1-4450-99a9-0d48a6b68b4b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='Sign In']</value>
-      <webElementGuid>d76a8feb-4bcd-4659-8e9d-8df8aa380359</webElementGuid>
+      <webElementGuid>9323fc01-04c2-40c5-b683-25bdf3ed5210</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[4]</value>
-      <webElementGuid>63ff75ce-f982-4713-a207-ee8d209695a1</webElementGuid>
+      <webElementGuid>e2aade9e-e544-48ef-9141-b3561e2e8cea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit']</value>
-      <webElementGuid>202c2a46-3a26-4d04-bd70-94cb2484be92</webElementGuid>
+      <webElementGuid>788ccd6b-c562-48c4-9c65-0bccbe8e6d2b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

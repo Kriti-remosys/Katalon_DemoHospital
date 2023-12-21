@@ -17,15 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('Login_Admin'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl('https://hospitalb.com/login')
+WebUI.doubleClick(findTestObject('Object Repository/Page_Demo Hospital/i_fa fa-user'))
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Hospital/button_Pathologist'))
+WebUI.navigateToUrl('https://hospitalb.com/reports/diagnostic-test-report')
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Hospital/input_custom-btn'))
+WebUI.takeScreenshotAsCheckpoint('SalesReport')
 
-WebUI.takeScreenshotAsCheckpoint('Hospital')
+WebUI.click(findTestObject('Object Repository/Page_Demo Hospital/a_Sale'))
+
+WebUI.click(findTestObject('Object Repository/Page_Demo Hospital/a_Set Service Price'))
+
+WebUI.navigateToUrl('https://hospitalb.com/diagnostic/diagnostic-test')
+
+WebUI.takeScreenshotAsCheckpoint('Service List')
 
 WebUI.closeBrowser()
 

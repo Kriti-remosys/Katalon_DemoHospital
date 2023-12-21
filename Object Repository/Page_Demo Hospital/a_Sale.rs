@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Pathology</name>
+   <name>a_Sale</name>
    <tag></tag>
-   <elementGuidId>3370fccd-973a-441d-b0b2-05d38e6af3f4</elementGuidId>
+   <elementGuidId>fbc61352-9c37-410c-8766-7dec4ec5244f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>li:nth-of-type(6) > a.btn.btn-app</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='navbar-collapse']/ul/li[6]/a</value>
+         <value>//div[@id='navbar-collapse']/ul/li[4]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>598ad0db-6be6-481c-8a61-54c5d98cbfd9</webElementGuid>
+      <webElementGuid>c415ac91-5c59-4ea4-b876-0c82537cc3e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,31 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-app</value>
-      <webElementGuid>68902a0f-088c-4261-a1d8-a62628e51f3a</webElementGuid>
+      <webElementGuid>480786ce-0f4b-473d-b06f-acac2e42e7cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>0462023c-e1ec-4bf6-9893-8ba99f44508e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>c09d9d5c-6f24-44fb-9c9f-9f949ff42947</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://hospitalb.com/reports/diagnostic-pathology-test-report</value>
-      <webElementGuid>7ac67a95-6fdc-4050-82fa-e1bc8b9d67ce</webElementGuid>
+      <value>https://hospitalb.com/diagnostic/diagnostic-test</value>
+      <webElementGuid>4de96bf5-b1c5-4556-810c-c5c931d27eb8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,70 +63,54 @@
       <type>Main</type>
       <value>
                                 
-                                Pathology
+                                Sale 
                             </value>
-      <webElementGuid>a465ac7b-002f-4896-858b-5303df5d4a6f</webElementGuid>
+      <webElementGuid>ebf553a3-bfd4-406a-8f89-b0fc24c3e25e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;navbar-collapse&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[6]/a[@class=&quot;btn btn-app&quot;]</value>
-      <webElementGuid>e736e9f3-cf10-45da-83ca-24bcd6bcb682</webElementGuid>
+      <value>id(&quot;navbar-collapse&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown&quot;]/a[@class=&quot;btn btn-app&quot;]</value>
+      <webElementGuid>3bfbbff7-86b5-4c16-9b0b-6f23c201a5ab</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='navbar-collapse']/ul/li[6]/a</value>
-      <webElementGuid>8ebcd8b2-1f70-46de-ab71-cd27a2615130</webElementGuid>
+      <value>//div[@id='navbar-collapse']/ul/li[4]/a</value>
+      <webElementGuid>3be8e41d-3805-452f-ad04-f33831fd0a54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://hospitalb.com/reports/diagnostic-pathology-test-report')]</value>
-      <webElementGuid>f56c26f2-92b1-4a4e-aaf1-b01990407bc1</webElementGuid>
+      <value>//a[contains(@href, 'https://hospitalb.com/diagnostic/diagnostic-test')]</value>
+      <webElementGuid>cd45c9b4-738b-4fde-922a-ac2dcada323b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[6]/a</value>
-      <webElementGuid>6ab1ea14-1973-4f6d-970d-cf792a157ad5</webElementGuid>
+      <value>//li[4]/a</value>
+      <webElementGuid>938d8484-2c51-44ac-ad0c-46eb5e1d92f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://hospitalb.com/reports/diagnostic-pathology-test-report' and (text() = '
+      <value>//a[@href = 'https://hospitalb.com/diagnostic/diagnostic-test' and (text() = '
                                 
-                                Pathology
+                                Sale 
                             ' or . = '
                                 
-                                Pathology
+                                Sale 
                             ')]</value>
-      <webElementGuid>7545e1b5-77f9-49b3-9a87-e767e7afae7d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='navbar-collapse']/ul/li/a</value>
-      <webElementGuid>a08da63f-64dc-42c1-9b9d-e72b775d3ed3</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//nav[2]/div/div/ul/li/a</value>
-      <webElementGuid>f51a8665-d887-485a-bc4d-6e0cb159c4ae</webElementGuid>
+      <webElementGuid>d857aa77-8683-4b9b-a093-c720c190a1db</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

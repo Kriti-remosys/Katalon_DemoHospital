@@ -27,13 +27,5 @@ WebUI.click(findTestObject('Object Repository/Page_Demo Hospital/a_Profile'))
 
 WebUI.navigateToUrl('https://hospitalb.com/profile')
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Hospital/input_full_name'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Hospital/input_mobile_no'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Hospital/button_Update'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Hospital/div_Your Profile Has been Updated'))
-
 WebUI.takeScreenshotAsCheckpoint('radiologits')
 
